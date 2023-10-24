@@ -101,6 +101,6 @@ Here is the link to the figma of how we think their APP should be redesigned int
 ## Contributors
 - 吳冠霆 WU KUAN TING
 - 廖幃萱 LIAO WEI XUAN
-- 賴姿紜 LAI ZI YUN
+- 賴姿妘 LAI ZI YUN
 - 林亞葶 LIN YA TING
 - 鐘萱容 ZHONG XUAN RUNG
